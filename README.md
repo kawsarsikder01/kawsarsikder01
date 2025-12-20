@@ -20,7 +20,8 @@ Currently exploring **Node.js, TypeScript, and Next.js** to broaden my full-stac
 **Selected projects**
 - **Remito** — Cross-border remittance system with multiple payment gateways  
 - **Lama.ng** — Service provider marketplace with chat & subscriptions  
-- **Restaurant POS** — QR menu, table ordering & kitchen workflow system  
+- **Restaurant POS** — QR menu, table ordering & kitchen workflow system
+- **Giftily** — Giftily is a digital gaming platform for top-ups, gift cards, and games.
 
 ---
 
