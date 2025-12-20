@@ -1,45 +1,29 @@
-## Hi 👋 I'm Kawsar
+Hi, I’m Kawsar 👋
 
-I'm a **software developer** who enjoys building reliable backend systems and clean APIs.  
-Most of my work is around **PHP & Laravel**, where I focus on scalability, performance, and real-world problem solving.
+I’m a software developer focused on building **scalable backend systems and clean APIs**.
+Most of my work is with **PHP & Laravel**, where I design RESTful services, integrate third-party APIs, and optimize performance for real-world applications.
 
-I’ve worked on **production applications** including fintech, marketplaces, and restaurant management systems — from designing REST APIs to integrating third-party services and optimizing databases.
+I’ve worked on production systems in **fintech, marketplaces, and restaurant management**, and I enjoy solving practical problems with simple, maintainable solutions.
 
-Currently, I’m expanding into **Node.js, TypeScript, and Next.js** to strengthen my full-stack skill set.
-
----
-
-### What I work with
-- **Backend:** PHP, Laravel, REST APIs
-- **Frontend:** JavaScript, React, Next.js, Tailwind CSS
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, Postman
-- **Payments & Integrations:** Payment gateways, third-party APIs
+Currently exploring **Node.js, TypeScript, and Next.js** to broaden my full-stack skill set.
 
 ---
 
-### Things I care about
-- Clean and maintainable architecture
-- Performance & query optimization
-- Writing code that scales beyond v1
-- Learning modern web technologies
+**Tech I work with**
+- PHP, Laravel, REST APIs  
+- JavaScript, React, Next.js  
+- MySQL, MongoDB  
+- Docker, Git, Postman  
 
 ---
 
-### Selected Work
-- **Remito** — Cross-border remittance system with multiple payment gateway integrations  
-- **Lama.ng** — Service provider marketplace with real-time chat and subscription system  
-- **Restaurant POS System** — QR menu, table ordering, delivery & kitchen workflow
-
-(Details and code samples are available in my repositories.)
+**Selected projects**
+- **Remito** — Cross-border remittance system with multiple payment gateways  
+- **Lama.ng** — Service provider marketplace with chat & subscriptions  
+- **Restaurant POS** — QR menu, table ordering & kitchen workflow system  
 
 ---
 
-### Let’s connect
-- 🌐 Portfolio: https://kawsar-dev-mu.vercel.app
-- 💼 LinkedIn: https://www.linkedin.com/in/kawsar-sikder-39b589331
-- 📧 Email: mdkawsarsikder01@gmail.com
-
----
-
-*I enjoy working on meaningful products, learning from other developers, and improving systems that people actually use.*
+🌐 https://kawsar-dev-mu.vercel.app  
+💼 https://www.linkedin.com/in/kawsar-sikder-39b589331  
+📧 mdkawsarsikder01@gmail.com
