@@ -10,7 +10,7 @@ Currently exploring **Node.js, TypeScript, and Next.js** to broaden my full-stac
 ---
 
 **Tech I work with**
-- PHP, Laravel, REST APIs  
+- PHP, Laravel, Node.js, REST APIs  
 - JavaScript, React, Next.js  
 - MySQL, MongoDB  
 - Docker, Git, Postman  
